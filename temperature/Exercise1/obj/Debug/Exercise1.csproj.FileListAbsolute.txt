@@ -1,0 +1,6 @@
+c:\users\amat\documents\visual studio 2015\Projects\Temperature\Exercise1\bin\Debug\Exercise1.exe.config
+c:\users\amat\documents\visual studio 2015\Projects\Temperature\Exercise1\bin\Debug\Exercise1.exe
+c:\users\amat\documents\visual studio 2015\Projects\Temperature\Exercise1\bin\Debug\Exercise1.pdb
+c:\users\amat\documents\visual studio 2015\Projects\Temperature\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
+c:\users\amat\documents\visual studio 2015\Projects\Temperature\Exercise1\obj\Debug\Exercise1.exe
+c:\users\amat\documents\visual studio 2015\Projects\Temperature\Exercise1\obj\Debug\Exercise1.pdb

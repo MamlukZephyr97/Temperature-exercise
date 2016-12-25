@@ -1,0 +1,1 @@
+c:\users\amat\documents\visual studio 2015\Projects\temperature\temperature\bin\Debug\temperature.exe.config
